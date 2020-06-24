@@ -16,3 +16,5 @@ Batman's primary character traits can be summarized as
 The driving force behind Bruce Wayne's character is his parents' murder and their absence.
 Despite his trauma, he sets his mind on studying to become a scientist and to train his body into physical perfection to fight crime in Gotham City as Batman, an inspired idea from Wayne's insight into the criminal mind.
 
+Batman famously said:
+> Everything’s impossible until somebody does it.
