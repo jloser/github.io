@@ -18,3 +18,9 @@ Despite his trauma, he sets his mind on studying to become a scientist and to tr
 
 Batman famously said:
 > Everything’s impossible until somebody does it.
+
+## Nice Picture
+Batman in DC Comics promotional art by Mikel Janín (April 2016).
+<img src="https://en.wikipedia.org/wiki/Batman#/media/File:Batman_(circa_2016).png"/>
+
+
