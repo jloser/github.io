@@ -21,6 +21,6 @@ Batman famously said:
 
 ## Nice Picture
 Batman in DC Comics promotional art by Mikel Janín (April 2016).
-<img src="https://en.wikipedia.org/wiki/Batman#/media/File:Batman_(circa_2016).png"/>
+<img src="https://en.wikipedia.org/wiki/File:Batman_(circa_2016).png"/>
 
 
